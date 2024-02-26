@@ -1,6 +1,8 @@
 body{
     background-color: #0a0c1b;
+    
 }
+
 .div1{
     background-color: #1c1938;
     display: flex;
@@ -8,6 +10,7 @@ body{
     height: 26rem;
     width: 70%;
     margin-left: 10%;
+
 }
 .div2{
     padding-left: 10%;
@@ -21,7 +24,6 @@ body{
     height: 26rem;
 }
 #image{
-    position: relative;
     width: 90%;
     height: 26rem;
     margin-left: 10%;
@@ -31,7 +33,8 @@ body{
     background-color: #a232f1;
     width: 90%;
     height: 26rem;
-    margin-left: -50%;
+    margin-left: 10%;
+    opacity: 50%;
 }
 .insight{
     color: white;
