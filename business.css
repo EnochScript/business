@@ -1,0 +1,52 @@
+body{
+    background-color: #0a0c1b;
+}
+.div1{
+    background-color: #1c1938;
+    display: flex;
+    margin-top: 10%;
+    height: 26rem;
+    width: 70%;
+    margin-left: 10%;
+}
+.div2{
+    padding-left: 10%;
+    padding-top: 5%;
+    width: 50%;
+    height: 40%;
+}
+.div3{
+    position: relative;
+    width: 50%;
+    height: 26rem;
+}
+#image{
+    position: relative;
+    width: 90%;
+    height: 26rem;
+    margin-left: 10%;
+}
+.cover{
+    position: absolute;
+    background-color: #a232f1;
+    width: 90%;
+    height: 26rem;
+    margin-left: -50%;
+}
+.insight{
+    color: white;
+}
+.note{
+    color: white;
+}
+#span{
+    color: #a232f1;
+}
+.bottom{
+    display: flex;
+    gap: 20%;
+    color: white;
+    padding-top: 10%;
+}
+
+
